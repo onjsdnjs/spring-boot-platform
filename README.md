@@ -1,1 +1,1 @@
-# spring-boot-platform
+# Spring Boot Web Application
